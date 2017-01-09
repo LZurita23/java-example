@@ -1,0 +1,17 @@
+[
+  {
+    "type": "USER_ADDED",
+    "username": "firsties",
+    "email": "first@example.com"
+  },
+  {
+    "type": "BUSINESS_ADDED",
+    "name": "Acme"
+  },
+  {
+    "type": "BUSINESS_RENAMED",
+    "id": 12,
+    "oldName": "Acme",
+    "newName": "Widget Co"
+  }
+]
