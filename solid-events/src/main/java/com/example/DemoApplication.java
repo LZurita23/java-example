@@ -34,9 +34,10 @@ public class DemoApplication {
         @Override
         public void run(String... args) throws Exception {
             loadFixtures();
-            // System.out.println(this.processor.eventsToTableFromJson());
+            // System.out.println(this.processor.doStuff());
             // System.out.println("-----------------------------------");
             // System.out.println(this.processor.eventsToTableFromDb());
+            // System.out.println(this.processor.doStuff());
         }
 
         private void loadFixtures() {
